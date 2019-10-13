@@ -12,3 +12,6 @@ def link
   linky = 'It\'s Dangerous To Go Alone! Take This.'
   puts linky
 end
+
+def any_phrase(phrase)
+  puts "Do A Barrel Roll!"
